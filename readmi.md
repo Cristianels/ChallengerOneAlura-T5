@@ -1,0 +1,1 @@
+Olá, este é o meu primeiro projeto que desenvolvi com as aulas da Alura, na jornada ONE - Turma 5. Estou aprendendo HTML, CSS E JS básicos, até o momento tenho gostado muito e espero aprender muito mais!
